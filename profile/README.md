@@ -11,3 +11,9 @@ The goal of this project is to build a part of a chatbot that employs curiosity 
 - the core goal is to create a set of questions, that would be considered curious, based on the statements that come in response to the opening question.
 
 The project will involve the use of recent, sophisticated Natural Language Processing models, as well as the curation of a good dataset for training. The project will measure how well the bot works by trying on real people.
+
+## Quick Links
+
+We are currently in the background research stage of our project. You can track our progess through the links below:
+- [**Task Board**](https://github.com/orgs/Team-Curiosity-2022/projects/1/views/2)
+- [**Wiki**](https://github.com/Team-Curiosity-2022/.github/wiki)
