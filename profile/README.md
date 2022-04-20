@@ -15,5 +15,5 @@ The project will involve the use of recent, sophisticated Natural Language Proce
 ## Quick Links
 
 We are currently in the background research stage of our project. You can track our progess through the links below:
-- [**Task Board**](https://github.com/orgs/Team-Curiosity-2022/projects/1/views/2)
+- [**Task Boards**](https://github.com/orgs/Team-Curiosity-2022/projects?type=beta)
 - [**Wiki**](https://github.com/Team-Curiosity-2022/.github/wiki)
